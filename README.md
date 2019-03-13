@@ -1,3 +1,6 @@
+/*   "server": "172.96.17.206", */
+
+
 # shadowsocks-java
 A  implementation of Shadowsocks in Java base on netty4 framework.
 
